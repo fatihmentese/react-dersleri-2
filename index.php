@@ -1,0 +1,3 @@
+<?
+echo "web üzerinden güncellendi";
+?>
